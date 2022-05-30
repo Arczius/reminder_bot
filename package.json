@@ -1,0 +1,23 @@
+{
+  "name": "reminder_bot",
+  "version": "1.0.0",
+  "description": "a discord bot to help you remind certain things",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arczius/reminder_bot.git"
+  },
+  "keywords": [
+    "reminder",
+    "bot"
+  ],
+  "author": "Arczius",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Arczius/reminder_bot/issues"
+  },
+  "homepage": "https://github.com/Arczius/reminder_bot#readme"
+}
